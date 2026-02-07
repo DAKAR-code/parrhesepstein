@@ -32,8 +32,5 @@ chroma_db/
 documents/
 saved_analyses/
 
-# Data files (user must provide)
-epstein_emails.parquet
-
 # Duplicate data file inside app/
 app/epstein_flights_data.json
