@@ -35,8 +35,5 @@ saved_analyses/
 # Data files (user must provide)
 epstein_emails.parquet
 
-# Large assets
-icon.png
-
 # Duplicate data file inside app/
 app/epstein_flights_data.json

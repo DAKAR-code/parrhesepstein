@@ -1,5 +1,9 @@
 # Parrhesepstein
 
+<p align="center">
+  <img src="icon.png" alt="Parrhesepstein" width="400">
+</p>
+
 **An AI-powered investigative platform for the Epstein Files.**
 
 Parrhesepstein is a full-stack Flask application that enables deep, systematic analysis of the Jeffrey Epstein document corpus released by the U.S. Department of Justice. It combines multi-agent AI investigation, semantic search (RAG), network graph analysis, and structured data persistence to surface connections, financial flows, and patterns across thousands of declassified documents.
