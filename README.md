@@ -14,6 +14,40 @@ The name combines *parrhesia* (Greek: fearless speech, speaking truth to power) 
 
 ---
 
+## Screenshots
+
+### Home Dashboard
+<img src="screenshots/home.png" width="700">
+
+### Investigation Crew — Multi-Agent AI Pipeline
+<img src="screenshots/investigation.png" width="700">
+
+### Investigation Report
+<img src="screenshots/report.png" width="700">
+
+### Smart Archive — RAG Semantic Search
+<img src="screenshots/rag.png" width="700">
+
+### People Registry
+<img src="screenshots/people.png" width="700">
+
+### Flight Logs
+<img src="screenshots/flights.png" width="700">
+
+### Map — Network Graph
+<img src="screenshots/map.png" width="700">
+
+### Map — Relationship Map
+<img src="screenshots/map2.png" width="700">
+
+### Map — Influence Network (Schema)
+<img src="screenshots/map3.png" width="700">
+
+### Map — Influence Network (Graph)
+<img src="screenshots/map4.png" width="700">
+
+---
+
 ## Table of Contents
 
 - [Architecture Overview](#architecture-overview)
