@@ -18,15 +18,6 @@ env/
 .AppleDouble
 .LSOverride
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Claude Code
-.claude/
-
 # Runtime data (created by the app)
 chroma_db/
 documents/
