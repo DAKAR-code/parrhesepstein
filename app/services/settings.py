@@ -29,10 +29,6 @@ def get_model():
     return get_app_settings()["model"]
 
 
-def get_base_url():
-    return get_app_settings()["base_url"] or None
-
-
 def get_language():
     return get_app_settings()["language"]
 
